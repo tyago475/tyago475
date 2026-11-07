@@ -9,6 +9,7 @@ Computer Science and Engineering student at **Universidade da Beira Interior (UB
 ## 🎓 University Projects
 
 - **[Primal Skyway](https://github.com/tyago475/Primal-Skyway)**: 3D game built in C++ with OpenGL and GLSL shaders, developed for Computer Graphics.
+- - **[CTRL+C](https://github.com/tyago475/ctrlc-clipboard-seguro)**: Secure clipboard manager in Python with encrypted history (AES-256-GCM), RSA signatures and X.509 certificates. Group project for Information Security.
 
 ## 📫 Contact
 
