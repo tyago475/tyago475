@@ -20,5 +20,4 @@ I enjoy building games and apps, from mobile to 3D graphics.
 
 ## 📫 Contact
 
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- Email: tiagofds170@gmail.com
